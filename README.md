@@ -10,7 +10,7 @@ The software used in this project are Python, through Google's Colab notebooks a
 The data is sourced from Our World in Data's Github Repository, https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv , and was downloaded on March 29, 2023.
 
 ### Data Processing: 
-The data was processed using Python Software in the Colab Notebook uploaded above. The data was dowloaded as a CSV file and uploaded into the notebook where it was clean adn transformed into a data frame.
+The data was processed using Python Software in the Colab Notebook uploaded above. The data was dowloaded as a CSV file and uploaded into the notebook where it was cleaned and transformed into a data frame.
 
 ### Author: 
 Project by Julia Bornilla.
